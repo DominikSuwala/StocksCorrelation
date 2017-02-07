@@ -17,7 +17,9 @@ https://www.mindsumo.com/contests/263
 
 ## Dependencies (Python Libraries)
 > matplotlib
+
 > scipy
+
 > numpy
 
 http://matplotlib.org
