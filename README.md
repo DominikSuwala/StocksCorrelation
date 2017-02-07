@@ -1,6 +1,8 @@
 # StocksCorrelation
 Stocks symbols are grouped into clusters based on a dissimilarity matrix constructed from computing Pearson's r. A dendrogram is produced. Additionally, clusters are color coded for easier identification.
 
+![alt tag](https://raw.githubusercontent.com/DominikSuwala/StocksCorrelation/master/dendrogram.png)
+
 ## Running
 
 > python correlation_clustering.py
