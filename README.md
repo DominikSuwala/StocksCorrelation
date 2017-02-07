@@ -1,6 +1,10 @@
 # StocksCorrelation
 Stocks symbols are grouped into clusters based on a dissimilarity matrix constructed from computing Pearson's r. A dendrogram is produced. Additionally, clusters are color coded for easier identification.
 
+Challenge URL:
+
+https://www.mindsumo.com/contests/263
+
 ![alt tag](https://raw.githubusercontent.com/DominikSuwala/StocksCorrelation/master/dendrogram.png)
 
 ## Running
