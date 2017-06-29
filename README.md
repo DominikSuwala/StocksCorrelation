@@ -29,7 +29,9 @@ https://www.mindsumo.com/contests/263
 > numpy
 
 > http://matplotlib.org
+
 > https://www.scipy.org
+
 > http://www.numpy.org
 
 ## Notes
